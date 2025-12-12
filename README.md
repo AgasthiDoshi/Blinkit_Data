@@ -42,8 +42,8 @@ This is the **primary insights page**, covering all key business KPIs.
 ---
 
 ## 🟩 **Page 2 – DAX Measures**
-📌 **Image:**  
-https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/DAX%20Measure%20pg-2.png  
+📌 
+![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/DAX%20Measure%20pg-2.png)  
 
 This page lists all **DAX Measures** used in the dashboard, including:
 - Revenue calculations  
@@ -57,8 +57,8 @@ Useful for understanding and reusing the logic behind KPIs.
 ---
 
 ## 🟩 **Page 3 – Visuals Overview Page**
-📌 **Image:**  
-https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Visuals%20pg-3.png  
+📌 
+![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Visuals%20pg-3.png)  
 
 This page provides **zoomed-in visuals** for:
 - Revenue by City  
@@ -72,8 +72,8 @@ Helpful for screenshot export and detailed presentations.
 ---
 
 ## 🟩 **Page 4 – Average Delivery Time by City**
-📌 **Image:**  
-https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Average%20Delivery%20Time%20by%20City%20pg%204.png  
+📌 
+![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Average%20Delivery%20Time%20by%20City%20pg%204.png)  
 
 ### 📌 **Key Metrics**
 - **166.29K** – Total Final Amount  
@@ -100,8 +100,8 @@ Filters:
 ---
 
 ## 🟩 **Page 5 – Rating Distribution for Products**
-📌 **Image:**  
-https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Rating%20Distribution%20for%20Products%20pg-5.png  
+📌 
+![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Rating%20Distribution%20for%20Products%20pg-5.png)  
 
 Displays detailed product rating distribution.
 
@@ -125,8 +125,8 @@ Filters:
 ---
 
 ## 🟩 **Page 6 – Revenue by Order Time of Day**
-📌 **Image:**  
-https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Revenue%20by%20order%20time%20of%20day%20pg-6.png  
+📌 
+![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Revenue%20by%20order%20time%20of%20day%20pg-6.png)  
 
 ### 📊 Revenue Insights
 - Morning – **43K**  
@@ -145,8 +145,8 @@ Filters Included:
 ---
 
 ## 🟩 **Page 7 – Forecasting (Next 2 Months)**
-📌 **Image:**  
-https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Forecasting%20pg-7.png  
+📌 
+![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Forecasting%20pg-7.png)  
 
 Uses Power BI’s built-in forecasting model.
 
@@ -195,4 +195,17 @@ Feel free to fork the repository and suggest improvements.
 
 ## ⭐ Show Your Support
 If you found this helpful, please ⭐ **star the repository**!
+
+🙏 Thank You
+Thank you for checking out my Blinkit Power BI Dashboard project!
+I hope this inspires you to explore how data visualization can turn raw information into actionable insights.
+
+## Author
+### Agasthi Doshi
+### 📧 doshiagasthi@gmail.com
+### 📱 +91-7400345300
+### 🌐 LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
+
+## Thank You. I hope you like this project.
+If you liked the project or found it helpful, do consider sharing your feedback.
 
