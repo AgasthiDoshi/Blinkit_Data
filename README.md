@@ -12,8 +12,8 @@ The project is divided into multiple pages, each visualizing a different aspect 
 ---
 
 ## 🟩 **Page 1 – Main Dashboard**
-📌 **Image:**  
-(https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Dashboard.png) 
+📌 
+![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Dashboard.png) 
 
 This is the **primary insights page**, covering all key business KPIs.
 
