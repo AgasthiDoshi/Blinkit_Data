@@ -1,4 +1,4 @@
-# 📊 Blinkit Power BI Dashboard – Comprehensive Analysis
+#  Blinkit Power BI Dashboard – Comprehensive Analysis
 
 This repository contains an end-to-end **Power BI Dashboard** built using Blinkit’s sample dataset.  
 The dashboard provides insights into **sales performance, customer behavior, delivery efficiency, product ratings, and forecasting**.
@@ -7,17 +7,17 @@ The project is divided into multiple pages, each visualizing a different aspect 
 
 ---
 
-## 📁 Dashboard Pages Overview
+##  Dashboard Pages Overview
 
 ---
 
-## 🟩 **Page 1 – Main Dashboard**
-📌 
+##  **Page 1 – Main Dashboard**
+ 
 ![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Dashboard.png) 
 
 This is the **primary insights page**, covering all key business KPIs.
 
-### 🔑 **KPIs Displayed**
+###  **KPIs Displayed**
 - **700** – Total Orders  
 - **48.86%** – Promo Usage %  
 - **17.71%** – Customer Satisfaction Rate (%)  
@@ -25,7 +25,7 @@ This is the **primary insights page**, covering all key business KPIs.
 - **32.30 mins** – Average Delivery Time  
 - **24.77K** – Missed Revenue  
 
-### 📊 **Visuals on Page 1**
+### **Visuals on Page 1**
 - Revenue by City  
 - Orders by Platform Used  
 - Revenue by Product Category  
@@ -33,7 +33,7 @@ This is the **primary insights page**, covering all key business KPIs.
 - Revenue by Time of Day  
 - Forecasting Revenue for Next 2 Months  
 
-### 🎛️ Filters Included:
+###  Filters Included:
 - Delivery Mode  
 - Day  
 - Time of Day  
@@ -41,8 +41,8 @@ This is the **primary insights page**, covering all key business KPIs.
 
 ---
 
-## 🟩 **Page 2 – DAX Measures**
-📌 
+##  **Page 2 – DAX Measures**
+
 ![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/DAX%20Measure%20pg-2.png)  
 
 This page lists all **DAX Measures** used in the dashboard, including:
@@ -56,8 +56,8 @@ Useful for understanding and reusing the logic behind KPIs.
 
 ---
 
-## 🟩 **Page 3 – Visuals Overview Page**
-📌 
+##  **Page 3 – Visuals Overview Page**
+
 ![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Visuals%20pg-3.png)  
 
 This page provides **zoomed-in visuals** for:
@@ -71,17 +71,17 @@ Helpful for screenshot export and detailed presentations.
 
 ---
 
-## 🟩 **Page 4 – Average Delivery Time by City**
-📌 
+##  **Page 4 – Average Delivery Time by City**
+
 ![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Average%20Delivery%20Time%20by%20City%20pg%204.png)  
 
-### 📌 **Key Metrics**
+###  **Key Metrics**
 - **166.29K** – Total Final Amount  
 - **342** – Promo Usage Count  
 - **700** – Order Count  
 - **32.30 minutes** – Average Delivery Time  
 
-### 📊 Main Visual
+###  Main Visual
 Bar chart showing **average delivery time** for cities:
 - Delhi  
 - Mumbai  
@@ -99,13 +99,13 @@ Filters:
 
 ---
 
-## 🟩 **Page 5 – Rating Distribution for Products**
-📌 
+##  **Page 5 – Rating Distribution for Products**
+
 ![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Rating%20Distribution%20for%20Products%20pg-5.png)  
 
 Displays detailed product rating distribution.
 
-### 📋 Rating Table Includes:
+###  Rating Table Includes:
 | Category | Average | Extraordinary | Good | NA | Poor | Total |
 |---------|----------|--------------|-------|------|-------|--------|
 | Beverages | 19 | 19 | 40 | 34 | — | 112 |
@@ -124,11 +124,11 @@ Filters:
 
 ---
 
-## 🟩 **Page 6 – Revenue by Order Time of Day**
-📌 
+##  **Page 6 – Revenue by Order Time of Day**
+ 
 ![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Revenue%20by%20order%20time%20of%20day%20pg-6.png)  
 
-### 📊 Revenue Insights
+###  Revenue Insights
 - Morning – **43K**  
 - Afternoon – **43K**  
 - Night – **40K**  
@@ -144,13 +144,13 @@ Filters Included:
 
 ---
 
-## 🟩 **Page 7 – Forecasting (Next 2 Months)**
-📌 
+##  **Page 7 – Forecasting (Next 2 Months)**
+
 ![Image:](https://github.com/AgasthiDoshi/Blinkit_Data/blob/main/Forecasting%20pg-7.png)  
 
 Uses Power BI’s built-in forecasting model.
 
-### 📈 Forecast Highlights
+###  Forecast Highlights
 - Forecast includes **upper and lower confidence intervals**  
 - Predictive values for **Aug 2025 – Sep 2025**  
 - Actual data points include:  
@@ -162,7 +162,7 @@ Filters:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Power BI Desktop  
 - DAX  
 - Power Query  
@@ -171,7 +171,7 @@ Filters:
 
 ---
 
-## 🎯 Project Purpose
+##  Project Purpose
 This dashboard helps businesses analyze:
 - Customer satisfaction  
 - Delivery performance across cities  
@@ -188,23 +188,23 @@ Useful for:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Feel free to fork the repository and suggest improvements.
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 If you found this helpful, please ⭐ **star the repository**!
 
-🙏 Thank You
+ Thank You
 Thank you for checking out my Blinkit Power BI Dashboard project!
 I hope this inspires you to explore how data visualization can turn raw information into actionable insights.
 
 ## Author
 ### Agasthi Doshi
-### 📧 doshiagasthi@gmail.com
-### 📱 +91-7400345300
-### 🌐 LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
+### doshiagasthi@gmail.com
+### +91-7400345300
+### LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
 
 ## Thank You. I hope you like this project.
 If you liked the project or found it helpful, do consider sharing your feedback.
